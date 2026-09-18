@@ -1,5 +1,6 @@
 import { Link, useParams } from "react-router-dom";
 import  useBooks  from "../context/BookContext";
+import BookCard from "../components/Bookcard";
 
 
 function BookDetails() {
